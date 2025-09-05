@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**kevinjoe1/kevinjoe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi 👋, I’m [Your Name]  
+Hi 👋, I’m Kevin Johnson  
 🎓 BCA Graduate | 📊 Aspiring Data Scientist / Data Analyst  
 
 - 🔭 Currently building projects in Python, Data Analytics, and Machine Learning  
